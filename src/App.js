@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Input from "./components/Input";
 import List from "./components/List";
 import "bootstrap/dist/css/bootstrap.min.css";
+import "./App.css";
 import uuid from "uuid";
 
 class App extends Component {
